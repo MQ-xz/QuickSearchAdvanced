@@ -1,0 +1,36 @@
+{
+    "name":"Quick Search",
+    "version":"1.0",
+    "description":"One Click google search extension for google form",
+    "manifest_version":2,
+    "author":"MQ",
+    "browser_action":{
+        "default_icon":"logo.png",
+        "default_title":"Quick Search"
+    },
+    "icons":{
+        "16":"logo.png",
+        "48":"logo.png",
+        "128":"logo.png"
+    },
+    "content_scripts": [
+        {
+        "matches": [
+            "https://docs.google.com/forms*"
+        ],
+        "css": [],
+        "js": [
+            "content.js"
+        ]
+        }
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "permissions": [
+        "https://docs.google.com/*"
+      ]
+
+}

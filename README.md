@@ -9,7 +9,7 @@
 
 ## Setting-Up
 
- for QucikSearch Advanced we need to setup API first to finder right answer form google. you can set it on local or run on any server.
+ for QucikSearch Advanced we need to setup API first to find right answer form google. you can set it on local or run on any server.
 
 
 Pre-requirements :

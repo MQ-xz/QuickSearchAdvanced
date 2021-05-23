@@ -5,7 +5,7 @@
 
 ## Demo 
 
-![demo](demo.gif)
+![demo](demo.mp4)
 
 ## Setting-Up
 

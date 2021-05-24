@@ -32,7 +32,7 @@
 ### Extension Setup:
 
 - Switch to [/extension](/Extension) directory.
-- Replace `YOUR_API_URL` with deployed python API URL
+- In [content.js](/Extension/content.js) replace `YOUR_API_URL` with deployed python API URL
 - Install the Extension<br/><br/>
 <b>Chrome:</b>
   - Open Extensions from Menu or visit ``` chrome://extensions ```

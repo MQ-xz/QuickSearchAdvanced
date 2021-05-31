@@ -1,7 +1,7 @@
 {
     "name":"Quick Search Advanced",
-    "version":"1.0",
-    "description":"One Click google search extension for google form",
+    "version":"1.0.2",
+    "description":"Extension to retrieve google form answer and mark right answer in form itself.",
     "manifest_version":2,
     "author":"MQ",
     "browser_action":{

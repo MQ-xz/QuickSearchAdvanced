@@ -1,5 +1,12 @@
 # QuickSearch Advanced
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/MQ-xz/QuickSearchAdvanced)
+![GitHub forks](https://img.shields.io/github/forks/MQ-xz/QuickSearchAdvanced)
+![GitHub repo size](https://img.shields.io/github/repo-size/MQ-xz/QuickSearchAdvanced)
+![GitHub contributors](https://img.shields.io/github/contributors/MQ-xz/QuickSearchAdvanced)
+
+
  <b>QuickSearch Advanced </b> is an advanced version of [QuickSearch](https://github.com/MQ-xz/QuickSearch) which auto searches all questions in Google Form and marks correct answers in the Form itself.
 
 
@@ -57,3 +64,5 @@ Currently, QuickSearch Advanced only supports Questions from [GeekforGeeks](http
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
